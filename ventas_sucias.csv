@@ -1,0 +1,12 @@
+Fecha,Producto,Cantidad,Precio_Unitario
+2026-10-01,  laptop lenovo ,1,$12500.50
+,,,
+2026-10-01,MOUSE INALAMBRICO,3,$350.00
+2026-10-02,teclado mecanico,2, $890.00 
+2026-10-02,Monitor 24 pulgadas,1,3200
+2026-10-03,Laptop Lenovo,1,$12500.50
+2026-10-03,Cable HDMI,5,error_precio
+2026-10-04,  mouse inalambrico,2,$350.00
+2026-10-04,Teclado Mecanico,1,$890.00
+,,,
+2026-10-05,Monitor 24 Pulgadas,2,$3200.00
